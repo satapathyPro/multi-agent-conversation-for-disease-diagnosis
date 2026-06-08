@@ -68,7 +68,7 @@ Patient Case Input
 
 Multi-Agent Conversation Flow:
 
-![Conversation Flow](https://github.com/geteff1/Multi-agent-conversation-for-disease-diagnosis/assets/148701415/35758db3-30b8-487d-83f6-1d8640e9ec38)
+![Conversation Flow](https://github.com/satapathyPro/multi-agent-conversation-for-disease-diagnosis/assets/148701415/35758db3-30b8-487d-83f6-1d8640e9ec38)
 
 ---
 
@@ -76,7 +76,7 @@ Multi-Agent Conversation Flow:
 
 302 disease cases were retrieved and curated as primary and follow-up consultations to test the effectiveness of LLMs in actual clinical scenarios.
 
-![Figure 2](https://github.com/geteff1/Multi-agent-conversation-for-disease-diagnosis/assets/148701415/8762cb39-adaf-42a9-b123-9aef73e578bc)
+![Figure 2](https://github.com/satapathyPro/multi-agent-conversation-for-disease-diagnosis/assets/148701415/8762cb39-adaf-42a9-b123-9aef73e578bc)
 
 ---
 
